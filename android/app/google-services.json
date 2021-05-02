@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "216559777395",
+    "project_id": "simple-62550",
+    "storage_bucket": "simple-62550.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216559777395:android:16c8f6d570cda69c635c06",
+        "android_client_info": {
+          "package_name": "com.onda.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216559777395-jhlbpqdadb1406pg2gbdqk6vdak7c7j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrQb_eso5Cv-FOy3dCeLrnsC2CCSJBj9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216559777395-jhlbpqdadb1406pg2gbdqk6vdak7c7j8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "216559777395-0fcpvtst4i31d2ek2jmpt9662nvdiecj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.simplestore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
